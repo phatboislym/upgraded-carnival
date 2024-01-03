@@ -29,4 +29,3 @@ this will reflect in the choice of learning resources being heavily weighted tow
 ## Logbook
 
 light records of each [day](./logbook) in the challenge
-
